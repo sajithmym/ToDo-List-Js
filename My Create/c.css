@@ -1,0 +1,46 @@
+.col-md-6{
+    background-color:gray;
+    margin-top: 30px;
+}
+
+body{
+    background-color:cornflowerblue;
+}
+
+i{
+    color:tomato;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 10px;
+    margin-left: 10px;
+    transition: all 0.5s;
+}
+
+i:hover{
+    color:violet;
+    font-size: 22px;
+}
+
+h3{
+    color: whitesmoke;
+}
+
+#show{
+    margin: 40px !important;
+    background-color:black;
+    transition: all 1s;
+}
+
+#show:hover{
+    box-shadow: 5px 5px red, 10px 10px blue, 15px 15px rgb(41, 206, 200);
+    border: 10px solid whitesmoke;
+}
+
+button{
+    margin: 5px;
+}
+
+input{
+    margin-top: 20px;
+    width: 100%;
+}

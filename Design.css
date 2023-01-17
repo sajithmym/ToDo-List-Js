@@ -1,0 +1,32 @@
+body {
+    background-color: gainsboro;
+}
+
+.col-md-5 {
+    margin-top: 50px;
+    background-color: whitesmoke;
+}
+
+h1{
+    text-align: center;
+    margin: 20px;
+    font-weight: bolder;
+    color: crimson;
+}
+
+button{
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+li{
+    list-style-type: none;
+    font-size: 18pt;
+    color:deepskyblue;
+    display: inline;
+}
+
+i{
+    color: crimson;
+    margin-left: 5%;
+}
