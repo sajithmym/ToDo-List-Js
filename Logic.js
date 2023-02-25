@@ -3,6 +3,7 @@ function Sajith() {
     let Update = document.getElementById("show")
 
     if (name != "") {
+        
         console.log(name)
         let Create_mym = document.createElement("div")
 
